@@ -65,6 +65,7 @@ module.exports = {
 >参考 [https://webpack.docschina.org/guides/author-libraries/](https://webpack.docschina.org/guides/author-libraries/)
 
 打包发布
+
 ```bash
 # 打包
 $ npm run build
@@ -75,7 +76,7 @@ $ npm publish
 
 npm地址：[https://www.npmjs.com/package/more-echo](https://www.npmjs.com/package/more-echo)
 
-```
+
 ## Node环境中使用
 
 ```bash
@@ -99,3 +100,5 @@ echo('Hello World!');
     moreEcho.echo('Hello World');
 </script>
 ```
+
+github: [https://github.com/mouday/more-echo](https://github.com/mouday/more-echo)
