@@ -54,13 +54,13 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'more-echo.js',
+    globalObject: 'this',
     library: {
       name: 'moreEcho',
       type: 'umd',
     },
   },
 };
-
 ```
 >参考 [https://webpack.docschina.org/guides/author-libraries/](https://webpack.docschina.org/guides/author-libraries/)
 

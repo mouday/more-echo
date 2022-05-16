@@ -6,7 +6,7 @@
     : 'object' == typeof exports
     ? (exports.moreEcho = o())
     : (e.moreEcho = o());
-})(self, () =>
+})(this, () =>
   (() => {
     'use strict';
     var e = {
