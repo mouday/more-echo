@@ -1,0 +1,18 @@
+{
+  "name": "more-echo",
+  "version": "1.0.1",
+  "description": "a demo for webpack package to npm",
+  "main": "dist/more-echo.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
