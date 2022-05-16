@@ -1,6 +1,6 @@
 {
   "name": "more-echo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a demo for webpack package to npm",
   "main": "dist/more-echo.js",
   "scripts": {
